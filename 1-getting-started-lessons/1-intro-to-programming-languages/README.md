@@ -463,8 +463,8 @@ switch (dayOfWeek) {
 ### 🎯 **Concept Check: Building Blocks Mastery**
 
 **Let's see how you're doing with the fundamentals:**
-- Can you explain the difference between a variable and a statement in your own words?
-- Think of a real-world scenario where you'd use an if-then decision (like our voting example)
+- Can you explain the difference between a variable and a statement in your own words? A variable is a container used by your computer to store information to retrieve later while a statement is like a "conversation" with your computer it is a condition or rule that you are asking your computer to execute.
+- Think of a real-world scenario where you'd use an if-then decision (like our voting example) If it is after 1am then the metro is closed and therefore i need to take the bus
 - What's one thing about programming logic that surprised you?
 
 **Quick confidence booster:**
@@ -713,9 +713,9 @@ Professional developers spend a significant portion of their time reading docume
 ### 🔧 **Tool Mastery Check: What Resonates With You?**
 
 **Take a moment to consider:**
-- Which tool are you most excited to try first? (There's no wrong answer!)
-- Does the command line still feel intimidating, or are you curious about it?
-- Can you imagine using browser DevTools to peek behind the curtain of your favorite websites?
+- Which tool are you most excited to try first? (There's no wrong answer!) I am excited to learn how to develop my own website and how the front end and backend work together
+- Does the command line still feel intimidating, or are you curious about it? I love using the terminal!!
+- Can you imagine using browser DevTools to peek behind the curtain of your favorite websites? yes
 
 ```mermaid
 pie title "Developer Time Spent With Tools"

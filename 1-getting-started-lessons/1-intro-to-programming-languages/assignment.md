@@ -60,3 +60,36 @@ Consider exploring tools from these categories:
 | **Demonstrated understanding of how tools fit into development workflows** | **Showed some understanding of professional context** | **Focused only on tool features without workflow context** |
 
 > 💡 **Research Tip**: Look for tools mentioned in job postings for web developers, check popular developer surveys, or explore the dependencies used by successful open-source projects on GitHub!
+
+## Tool 1
+
+### Vite - Build tools
+
+**Purpose:** Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects. It allows for instant server start and hot module replacement.
+
+**Documentation:** https://vite.dev/guide/ 
+
+**Workflow Integration:** Vite enhances workflow by providing fast development servers that start in under 200 milliseconds and enabling near-instant hot module replacement, allowing for developers to see changes in real-time without long wait times.
+
+
+
+## Tool 2
+
+### Figma - Design tools 
+
+**Purpose:** A collaborative web application for interface design
+
+**Documentation:** https://www.figma.com/ 
+
+**Workflow Integration:** Helps create interactive prototypes to visualize user experiences. Use design systems to maintain consistency across projects with reusable components and styles.
+
+
+## Tool 3
+
+### Tailwind CSS - CSS Framework
+
+**Purpose** Allow developers to style websites directly within HTML using concise utility classes. 
+
+**Documentation** https://tailwindcss.com/docs/installation/using-vite
+
+**Workflow Integration** Tailwind CSS promotes rapid development by eliminating the need to write custom styles for every component.
