@@ -200,7 +200,7 @@ The most effective accessibility testing combines multiple approaches. No single
 
 **Let's see how you're feeling about accessibility testing:**
 - Which testing method seems most approachable to you right now?
-- Can you imagine using keyboard-only navigation for a full day?
+- Can you imagine using keyboard-only navigation for a full day? for sure
 - What's one accessibility barrier you've personally experienced online?
 
 ```mermaid
